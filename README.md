@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**SamarthKulkarni2006/SamarthKulkarni2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Samarth, a Computer Science Engineering student from India.
 
-Here are some ideas to get you started:
+I'm passionate about Data Analytics, problem-solving, and discovering meaningful insights from data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm building my analytical skills through hands-on learning and exploring the world of Data Science.
+
+---
+
+## 🔗 Tools & Tech
+
+- SQL
+- Python
+- Git & GitHub
+- Jupyter Notebook
+- Data Analysis
+
+---
+
+## 📊 A Bit About Me
+
+- 🎓 Computer Science Engineering student
+- 🔍 I enjoy analyzing data and solving problems
+- 🏏 Cricket enthusiast
+- 🌱 Always learning something new
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced SQL
+- Python for Data Analytics
+- Data Visualization
+- Statistics for Data Science
+
+---
+
+*Turning data into insights, one project at a time.*
+
